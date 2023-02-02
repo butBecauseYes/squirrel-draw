@@ -1,6 +1,6 @@
 var sec = 0;
 var classes = ["snowman", "octagon", "smiley_face", "matches", "animal_migration", "beard", "aircraft_carrier", "donut", "bottlecap", "mouth", "knee", "sink", "beach", "hurricane", "peas", "stitches", "ant", "grass", "angel", "line", "ear", "streetlight", "watermelon", "pear", "leg"];
-var mood = "waiting";
+var mood = "waiting.";
 
 console.log(classes.length);
 
